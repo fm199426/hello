@@ -4,4 +4,3 @@ hello world
 
 add fun1
 add fun2
-code conclick2
