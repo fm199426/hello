@@ -3,3 +3,4 @@ hello world
 666
 
 add fun1
+add fun2
